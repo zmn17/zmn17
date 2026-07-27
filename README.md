@@ -58,12 +58,12 @@ zee@github ~ $ tree ~/stack
 │   └── html + css
 │
 ├── backend/
-│   ├── node.js      ├── django       ├── postgresql
-│   └── mysql
+│   ├── c# / asp.net ├── fastapi      ├── postgresql
+│   ├── mysql        └── mongodb
 │
 ├── tools/
 │   ├── git          ├── docker       ├── bash
-│   ├── selenium     ├── opengl       └── figma
+│   └── opengl
 │
 ├── editors/
 │   ├── neovim       ├── vs code      ├── cursor
@@ -72,7 +72,7 @@ zee@github ~ $ tree ~/stack
 └── systems/
     ├── arch linux   ├── macos        └── windows
 
-7 directories, 26 files
+6 directories, 26 files
 ```
 
 ---
