@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=560&height=45&lines=%24+whoami;Zamyn+Ahmadi+%E2%80%94+Software+Engineer;Computer+Science+student;Linux+%2B+open+source;%24+_" alt="whoami">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=560&height=45&lines=%24+whoami;zmyn+Ahmadi+%E2%80%94+Software+Engineer;Computer+Science+student;Linux+%2B+open+source;%24+_" alt="whoami">
   </a>
 </p>
 
@@ -24,7 +24,7 @@ zee@github ~ $ fastfetch
 
                    -`                    zee@github
                   .o+`                   ─────────────────────────────────────
-                 `ooo/                   user .......... Zamyn Ahmadi
+                 `ooo/                   user .......... zmyn Ahmadi
                 `+oooo:                  handle ........ zmn17
                `+oooooo:                 role .......... Software Engineer
                -+oooooo+:                studying ...... Computer Science
